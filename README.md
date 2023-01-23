@@ -5,7 +5,8 @@ desc
 
 <hr>
 
-Add these values to the your Game.ini under 
+Add these values to the your Game.ini under:
 
-```[/script/shootergame.shootergamemode]
+```
+[/script/shootergame.shootergamemode]
 ```
