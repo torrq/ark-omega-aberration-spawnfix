@@ -5,7 +5,7 @@ Custom spawns for Aberration, changing Aberrant variants back to vanilla so that
 
 <hr>
 
-Add these values to the your Game.ini under:
+Add these values to your Game.ini under:
 
 ```
 [/script/shootergame.shootergamemode]
